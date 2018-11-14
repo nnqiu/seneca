@@ -1,0 +1,19 @@
+{
+  "name": "seneca",
+  "version": "1.0.0",
+  "description": "this is a seneca project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnqiu/seneca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnqiu/seneca/issues"
+  },
+  "homepage": "https://github.com/nnqiu/seneca#readme"
+}
